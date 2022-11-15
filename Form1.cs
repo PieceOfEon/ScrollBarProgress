@@ -54,7 +54,6 @@ namespace ScrollBarProgress
         {
             Read_File();
         }
-        
         private void MyMouseWheel(object sender, MouseEventArgs e)
         {
             if (e.Delta > 0)
